@@ -10,3 +10,5 @@ A-4:https://colab.research.google.com/drive/1KDc3obZCECi1c6WdCSUijJvoo95YDUlf#sc
 A-5:https://colab.research.google.com/drive/1V0jb2Nh_W1ZawpDmC7pCBHOypWNJdqzH
 
 A-6:https://colab.research.google.com/drive/1DXexvlBxPSWl_sN5aWD1gY98UeCSwXPI#scrollTo=5lKbTZM2ozaH
+
+A_8:https://colab.research.google.com/drive/13yVA8tDk1u8T5JNJFVOEJOfCTVIZJeAu#scrollTo=Icl_ivRapYmQ
