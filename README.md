@@ -12,3 +12,7 @@ A-5:https://colab.research.google.com/drive/1V0jb2Nh_W1ZawpDmC7pCBHOypWNJdqzH
 A-6:https://colab.research.google.com/drive/1DXexvlBxPSWl_sN5aWD1gY98UeCSwXPI#scrollTo=5lKbTZM2ozaH
 
 A_8:https://colab.research.google.com/drive/13yVA8tDk1u8T5JNJFVOEJOfCTVIZJeAu#scrollTo=Icl_ivRapYmQ
+
+A_7:https://colab.research.google.com/drive/17xXrimASSXV6XjaKXln1O9yN770TK6R2#scrollTo=CibB60QZxDRe
+
+A_9:https://colab.research.google.com/drive/18eHAA2zQTu2X_346-OL3RUeegoSOZe8Z#scrollTo=pWXmB81tinbr
